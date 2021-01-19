@@ -1,3 +1,3 @@
-# Aplikasi-Search-Github
-Projek ini menggunakan MVVM Arshitecture
-# Preview Aplikasi
+
+Miftakhun Nurul Jannah
+18.12.0859
